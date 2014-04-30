@@ -1,4 +1,4 @@
 SkyWars
 =======
 
-an update on this inactive skywars plougin http://dev.bukkit.org/bukkit-plugins/skywars-plugin/
+An update on this inactive skywars plugin: http://dev.bukkit.org/bukkit-plugins/skywars-plugin/
